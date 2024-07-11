@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>👋 Hello everyone, my name is Mikhail!</h1>
-    <p">💻 **I'm a junior Frontend developer**</p>
+    <p style="font-weight:500">💻I'm a junior Frontend developer</p>
 </div>
 
 <h3 align="center">Contact with me</h3>
