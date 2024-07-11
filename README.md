@@ -2,8 +2,7 @@
     <h1>👋 Hello there, my name is Mikhail!</h1>
     <p style="font-weight:500">💻I'm a junior Frontend developer</p>
 </div>
-
-
+###Social:
 <div id="socials" style="display:flex; align-items:center; justify-content:center;">
     <a style="display:flex; align-items:center; text-decoration:none; color:inherit;" href="https://t.me/mmaletskov">
         <img style="width:40px;" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="Телеграм">
