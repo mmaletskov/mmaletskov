@@ -16,7 +16,7 @@
 <div id="about" align="left">
     <h3>About me</h3>
     <ul style="font-size:16px; font-weight:500">
-        <li>🔰Junior front-end developer with experience in React</li>
+        <li>🔰Junior front-end developer with experience in React,JS,PHP</li>
         <li>📝Looking for interesting projects and opportunities for professional development</li>
         <li>📘Learning English</li>
     </ul>
