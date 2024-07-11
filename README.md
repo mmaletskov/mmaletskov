@@ -3,7 +3,7 @@
     <p style="font-weight:500">💻I'm a junior Frontend developer</p>
 </div>
 
-<h3 align="center">Contact with me</h3>
+<h3 align="center">Socials</h3>
 
 <div id="socials" style="display:flex; align-items:center; flex-direction:column-reverse;">
     <a style="text-decoration:none; color:inherit;" href="https://t.me/mmaletskov">
