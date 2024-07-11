@@ -6,8 +6,7 @@
 
 <div id="socials" style="display:flex; align-items:center; justify-content:center;">
     <a style="display:flex; align-items:center; text-decoration:none; color:inherit;" href="https://t.me/mmaletskov">
-        <img style="width:40px; margin: 0 auto;" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="Телеграм">
-        <p align="center">Socials</p>
+        <img style="width:40px;" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="Телеграм">
     </a>
 </div>
 
