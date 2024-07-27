@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">Junior frontend developer</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Vue**
 
 - 💬 Ask me about **React**
 
