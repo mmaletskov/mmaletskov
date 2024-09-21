@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">Junior frontend developer</h3>
 
-- 🌱 I’m currently learning **Vue**
-
-- 💬 Ask me about **React**
-
+- 🌱 I’m learning **React**
+  
 - 📫 How to reach me **https://t.me/mmaletskov**
 
 <h3 align="left">Languages and Tools:</h3>
